@@ -89,8 +89,8 @@ To use Spoon Runner and Spoon Client (to make and save screenshots) external Jar
 
 Plus add extra permissions to AndroidManifest.xml to be able to save screenshots to the files:
 
-android:name="android.permission.READ_EXTERNAL_STORAGE"
-android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+android:name="android.permission.READ_EXTERNAL_STORAGE
+android:name="android.permission.WRITE_EXTERNAL_STORAGE
 
 To run tests from command line with Spoon Runner use the following command:
 java -jar spoon-runner-1.7.1-jar-with-dependencies.jar  
