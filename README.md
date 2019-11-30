@@ -88,6 +88,7 @@ To use Spoon Runner and Spoon Client (to make and save screenshots) external Jar
 •	spoon-client-1.7.1.jar
 
 Plus add extra permissions to AndroidManifest.xml to be able to save screenshots to the files:
+
 <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 
