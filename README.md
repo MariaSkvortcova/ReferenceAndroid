@@ -43,14 +43,17 @@ I added to project AndroidUITestsRunReport.html file from my tests run. You can 
 ABOUT TEST PROJECT
 
 Test Approach
+
 I use Espresso API for creating UI Instrumented tests for Android App.
 
 As far as it is open assignment without specific requirements, I have implemented test cases that check availability and behavior of Android App components.
 
 Assumptions
+
 I verify the correctness of elements values and behavior based on the values displayed in the Android App UI assuming them as the correct ones.
 
 Structure 
+
 UITest class contains UI instrumented tests for Android App
 that make checks of UI Views (elements) and their behavior correctness.
 
