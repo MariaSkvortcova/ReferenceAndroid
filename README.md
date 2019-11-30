@@ -8,6 +8,7 @@ Assignment was done using:
 5.	Git
 
 Pre-requisites:
+
 •	Android SDK 29
 •	Java v8 JDK and/or higher versions
 
@@ -29,8 +30,10 @@ Launching Project
 Running Tests and Test report
 
 Test cases can be run different ways:
+
 •	with Android JUnit Runner 
 from command line with command:
+
 ./gradlew connectedAndroidTest 
 
 The results of tests run can be found in file 
